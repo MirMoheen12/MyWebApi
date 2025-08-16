@@ -1,0 +1,14 @@
+{
+  "database": {
+    "driver": "ODBC Driver 17 for SQL Server",
+    "server": "Mir",
+    "database": "PRONEXEL_DB",
+    "username": "DbUser",
+    "password": "Admin@123",
+    "trusted_connection": "no",
+    "encrypt": "yes",
+    "trust_server_certificate": "yes",
+    "multiple_active_result_sets": "yes",
+    "command_timeout": 180
+  }
+}
